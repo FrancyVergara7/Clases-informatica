@@ -1,1 +1,2 @@
 Este es un texto para nombrar el nuevo color 
+Es un cambio para practica de conflicto
