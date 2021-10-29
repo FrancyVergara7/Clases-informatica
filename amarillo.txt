@@ -1,2 +1,6 @@
 Texto para archivo amarillo
-Este trabajo es para practicar repositorio local con remoto.
+<<<<<<< HEAD
+
+=======
+Este es un texto para la actividad de la clase 6 de informática. 
+>>>>>>> 5ea05261a844a83be0b3b779fc3d0a0d607bdf6f
