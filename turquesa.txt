@@ -1,6 +1,10 @@
 Este es un texto para nombrar el nuevo color 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Es un cambio para practica de conflicto
 =======
 Nuevo texto para solucionar conflictos 
 >>>>>>> 7bb2b36385ef7692ab1f356f2e99c8498585e92f
+=======
+ 
+>>>>>>> 1a81e3ca573c90cf8d00481f4b2abb251c8b45fd
